@@ -21,7 +21,6 @@ Harsh Mishra
 - {{< frag c="Introduction to Polyglot development" >}}
 - {{< frag c="Getting started with MetaCall Core" >}}
 - {{< frag c="Understanding the underneath of the Core" >}}
-- {{< frag c="Walking through a Polyglot Machine Learning application" >}}
 - {{< frag c="Building a Polyglot application using Core" >}}
 - {{< frag c="Q&A" >}}
 
@@ -149,14 +148,6 @@ docker pull metacall/core
 
 {{< benchmarks >}}
 {{< benchmark-code >}}
-
----
-
-# Walking through a Polyglot Machine Learning application
-
-{{< polyglot-machine-learning >}}
-<br><br>
-{{< figure src="images/metacall-ml.png" height="280px" >}}
 
 ---
 
